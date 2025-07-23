@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "old-phone-pad-simulator/1.0.0": {
+        "runtime": {
+          "old-phone-pad-simulator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "old-phone-pad-simulator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

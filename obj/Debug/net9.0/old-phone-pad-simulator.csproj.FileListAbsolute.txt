@@ -1,0 +1,15 @@
+/Users/machd/Documents/Github/old-phone-pad-simulator/bin/Debug/net9.0/old-phone-pad-simulator
+/Users/machd/Documents/Github/old-phone-pad-simulator/bin/Debug/net9.0/old-phone-pad-simulator.deps.json
+/Users/machd/Documents/Github/old-phone-pad-simulator/bin/Debug/net9.0/old-phone-pad-simulator.runtimeconfig.json
+/Users/machd/Documents/Github/old-phone-pad-simulator/bin/Debug/net9.0/old-phone-pad-simulator.dll
+/Users/machd/Documents/Github/old-phone-pad-simulator/bin/Debug/net9.0/old-phone-pad-simulator.pdb
+/Users/machd/Documents/Github/old-phone-pad-simulator/obj/Debug/net9.0/old-phone-pad-simulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/machd/Documents/Github/old-phone-pad-simulator/obj/Debug/net9.0/old-phone-pad-simulator.AssemblyInfoInputs.cache
+/Users/machd/Documents/Github/old-phone-pad-simulator/obj/Debug/net9.0/old-phone-pad-simulator.AssemblyInfo.cs
+/Users/machd/Documents/Github/old-phone-pad-simulator/obj/Debug/net9.0/old-phone-pad-simulator.csproj.CoreCompileInputs.cache
+/Users/machd/Documents/Github/old-phone-pad-simulator/obj/Debug/net9.0/old-phone-pad-simulator.sourcelink.json
+/Users/machd/Documents/Github/old-phone-pad-simulator/obj/Debug/net9.0/old-phone-pad-simulator.dll
+/Users/machd/Documents/Github/old-phone-pad-simulator/obj/Debug/net9.0/refint/old-phone-pad-simulator.dll
+/Users/machd/Documents/Github/old-phone-pad-simulator/obj/Debug/net9.0/old-phone-pad-simulator.pdb
+/Users/machd/Documents/Github/old-phone-pad-simulator/obj/Debug/net9.0/old-phone-pad-simulator.genruntimeconfig.cache
+/Users/machd/Documents/Github/old-phone-pad-simulator/obj/Debug/net9.0/ref/old-phone-pad-simulator.dll
